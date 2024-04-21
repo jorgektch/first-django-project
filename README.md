@@ -1,5 +1,5 @@
-# first-django-project
-Mi primero proyecto con Django
+# Mi primer proyecto con Django
+Mi primer proyecto con Django, en el que aplicaré los conocimientos que adquiera en los webinars de Chicas FISI para solucionar un problema del mundo real.
 ## Comandos básicos de Git
 - git clone <url-repositorio>: Sirve para clonar un repositorio público o al cual yo tenga acceso privado.
 - git pull: Sirve para actualizar cambios en local con respecto al repositorio remoto.
