@@ -35,4 +35,4 @@ def dividir_numeros():
 # A partir del reto anterior crea un paquete que se llame retos
 # que contenga modulos que correspondan a cada no de los subretos
 # cada modulo debe contener los metodos necesarios
-# Llamar desde u script de prueba a los metodos de dialogo
+# Llamar desde un script de prueba a los metodos de dialogo
